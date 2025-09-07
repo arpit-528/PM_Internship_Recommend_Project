@@ -1,0 +1,501 @@
+internship_id,title,required_skills,qualification_required,location,sector,capacity,priority_category
+I0001,Software Developer Intern,html nodejs sql,B.Sc CS,Delhi,software,5,Rural
+I0002,Paralegal Intern,case summaries contract review drafting legal research,LLB,Mumbai,law,13,Rural
+I0003,Video Editing Intern,figma illustrator photoshop uiux design video editing,B.Sc CS,Jaipur,design,7,
+I0004,Risk Analyst Intern,accounting budgeting risk analysis,B.Com,Pune,finance,25,Rural
+I0005,Clinical Assistant Intern,clinical procedures first aid,MBBS,Kolkata,healthcare,32,
+I0006,Clinical Assistant Intern,clinical procedures nursing patient care,M.Sc Nursing,Pune,healthcare,9,
+I0007,Teaching Assistant Intern,curriculum design instructional design mentoring teaching,M.Sc Nursing,Hyderabad,education,41,Rural
+I0008,Patient Care Intern,clinical procedures nursing,BDS,Jaipur,healthcare,22,Rural
+I0009,EdTech Content Intern,content writing instructional design,BBA,Chennai,education,9,ST
+I0010,Accounting Intern,accounting risk analysis,BBA,Chennai,finance,19,ST
+I0011,Instructional Design Intern,content writing curriculum design mentoring,MBA,Chennai,education,26,Rural
+I0012,Sales & Growth Intern,digital marketing sales,MBA,Pune,marketing,29,ST
+I0013,Video Editing Intern,photoshop uiux design,B.Des,Jaipur,design,10,EWS
+I0014,SEO Intern,digital marketing market research seo sales social media,MBA,Kolkata,marketing,10,ST
+I0015,Business Intelligence Intern,data analysis power bi python,B.Tech CSE,Pune,data science,11,EWS
+I0016,Data Scientist Intern,machine learning pytorch tensorflow,B.Tech ECE,Bangalore,aiml,32,SC
+I0017,Medical Research Intern,clinical procedures patient care,BDS,Bangalore,healthcare,10,ST
+I0018,Risk Analyst Intern,excel risk analysis,B.Com,Pune,finance,21,ST
+I0019,Data Analyst Intern,data analysis power bi statistics,B.Tech Mechanical,Bangalore,data science,46,EWS
+I0020,ETL Intern,etl excel statistics,M.Tech,Jaipur,data science,30,
+I0021,Clinical Assistant Intern,first aid medical research,MBBS,Chennai,healthcare,14,Rural
+I0022,Production Intern,cad production planning quality control,B.Tech Civil,Kolkata,manufacturing,28,EWS
+I0023,ML Research Intern,data analysis deep learning machine learning,M.Tech,Pune,aiml,26,ST
+I0024,AI Engineer Intern,machine learning pytorch python sql tensorflow,B.Tech CSE,Mumbai,aiml,34,EWS
+I0025,Instructional Design Intern,curriculum design mentoring,BDS,Chennai,education,46,EWS
+I0026,AgriTech Intern,crop management soil testing,B.Sc Agriculture,Hyderabad,agriculture,38,EWS
+I0027,Quality Control Intern,cad electrical circuits mechanical design production planning quality control,B.Tech ECE,Mumbai,manufacturing,7,ST
+I0028,Data Analyst Intern,etl sql statistics,MCA,Delhi,data science,7,EWS
+I0029,SEO Intern,digital marketing market research seo sales social media,MBA,Chennai,marketing,40,SC
+I0030,Risk Analyst Intern,accounting budgeting excel financial analysis risk analysis,B.Com,Jaipur,finance,44,
+I0031,Paralegal Intern,case summaries contract review drafting legal research,LLB,Delhi,law,41,ST
+I0032,Instructional Design Intern,content writing curriculum design instructional design teaching,BDS,Pune,education,8,
+I0033,Production Intern,cad electrical circuits mechanical design production planning quality control,B.Tech Mechanical,Delhi,manufacturing,49,SC
+I0034,Video Editing Intern,figma illustrator photoshop uiux design video editing,B.Des,Pune,design,19,EWS
+I0035,Paralegal Intern,case summaries legal research,LLB,Jaipur,law,43,ST
+I0036,Instructional Design Intern,content writing mentoring teaching,MBBS,Chennai,education,19,Rural
+I0037,UI/UX Intern,figma illustrator photoshop uiux design video editing,B.Des,Chennai,design,17,EWS
+I0038,UI/UX Intern,illustrator uiux design video editing,B.Tech Mechanical,Mumbai,design,46,
+I0039,AI Engineer Intern,machine learning sql,MCA,Mumbai,aiml,37,SC
+I0040,Instructional Design Intern,content writing curriculum design instructional design mentoring teaching,BBA,Chennai,education,22,
+I0041,ML Research Intern,data analysis deep learning pytorch,BCA,Pune,aiml,42,
+I0042,EdTech Content Intern,content writing curriculum design instructional design mentoring teaching,BDS,Jaipur,education,39,EWS
+I0043,Backend Developer Intern,git html,B.Sc CS,Delhi,software,12,SC
+I0044,Medical Research Intern,clinical procedures first aid medical research patient care,MBBS,Kolkata,healthcare,24,EWS
+I0045,Production Intern,cad electrical circuits production planning,B.Tech ECE,Bangalore,manufacturing,22,SC
+I0046,Quality Control Intern,cad electrical circuits quality control,B.Tech ECE,Hyderabad,manufacturing,35,SC
+I0047,Contract Review Intern,case summaries contract review drafting legal research,LLB,Kolkata,law,41,SC
+I0048,AI Engineer Intern,deep learning sql,MCA,Kolkata,aiml,50,SC
+I0049,Production Intern,cad electrical circuits mechanical design quality control,B.Tech ECE,Delhi,manufacturing,11,SC
+I0050,ML Research Intern,deep learning machine learning pytorch sql,B.Sc CS,Hyderabad,aiml,39,SC
+I0051,Contract Review Intern,case summaries contract review drafting legal research,LLB,Kolkata,law,44,SC
+I0052,AI Engineer Intern,pytorch python,B.Tech ECE,Bangalore,aiml,50,Rural
+I0053,ETL Intern,excel statistics,MCA,Delhi,data science,15,Rural
+I0054,Graphic Design Intern,figma illustrator photoshop uiux design video editing,B.Tech Mechanical,Jaipur,design,20,Rural
+I0055,SEO Intern,digital marketing market research seo sales,MBA,Bangalore,marketing,37,SC
+I0056,Backend Developer Intern,c css javascript react,BCA,Jaipur,software,15,EWS
+I0057,Graphic Design Intern,figma illustrator video editing,B.Des,Hyderabad,design,47,Rural
+I0058,Data Scientist Intern,data analysis deep learning pytorch python sql,M.Tech,Jaipur,aiml,21,ST
+I0059,AI Engineer Intern,data analysis machine learning pytorch sql,B.Tech Mechanical,Kolkata,aiml,22,
+I0060,Business Intelligence Intern,data analysis power bi python sql,B.Tech ECE,Pune,data science,21,
+I0061,EdTech Content Intern,curriculum design instructional design teaching,BDS,Pune,education,8,Rural
+I0062,Backend Developer Intern,javascript react,BCA,Chennai,software,27,ST
+I0063,Production Intern,electrical circuits mechanical design production planning quality control,B.Tech Civil,Chennai,manufacturing,12,
+I0064,Software Developer Intern,java nodejs react sql,B.Tech CSE,Mumbai,software,26,
+I0065,Graphic Design Intern,figma video editing,B.Tech CSE,Pune,design,11,SC
+I0066,Instructional Design Intern,content writing curriculum design mentoring teaching,MBBS,Jaipur,education,34,SC
+I0067,EdTech Content Intern,curriculum design teaching,MBA,Kolkata,education,38,SC
+I0068,Data Analyst Intern,data analysis etl python sql statistics,BCA,Bangalore,data science,10,Rural
+I0069,Digital Marketing Intern,digital marketing market research seo sales,MBA,Delhi,marketing,19,
+I0070,ML Research Intern,data analysis machine learning pytorch,B.Tech ECE,Jaipur,aiml,5,Rural
+I0071,Agriculture Field Intern,farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Pune,agriculture,21,Rural
+I0072,Data Scientist Intern,data analysis pytorch tensorflow,BCA,Kolkata,aiml,29,EWS
+I0073,Production Intern,electrical circuits mechanical design,B.Tech ECE,Chennai,manufacturing,7,ST
+I0074,Contract Review Intern,case summaries contract review drafting legal research,LLB,Chennai,law,20,EWS
+I0075,Finance Analyst Intern,accounting budgeting risk analysis,BBA,Delhi,finance,7,ST
+I0076,Mechanical Design Intern,electrical circuits mechanical design production planning quality control,B.Tech Civil,Delhi,manufacturing,11,SC
+I0077,Instructional Design Intern,curriculum design instructional design teaching,MBBS,Pune,education,48,EWS
+I0078,Video Editing Intern,figma illustrator photoshop uiux design video editing,B.Des,Pune,design,21,ST
+I0079,UI/UX Intern,figma illustrator photoshop,B.Tech Civil,Bangalore,design,6,
+I0080,Teaching Assistant Intern,content writing curriculum design instructional design mentoring teaching,BDS,Hyderabad,education,40,
+I0081,Medical Research Intern,first aid medical research,BDS,Chennai,healthcare,27,ST
+I0082,Digital Marketing Intern,digital marketing market research social media,B.Des,Delhi,marketing,28,Rural
+I0083,Sales & Growth Intern,digital marketing market research sales,BBA,Mumbai,marketing,12,EWS
+I0084,Soil Testing Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Jaipur,agriculture,48,EWS
+I0085,Risk Analyst Intern,accounting budgeting excel financial analysis,BBA,Delhi,finance,24,
+I0086,Mechanical Design Intern,electrical circuits mechanical design quality control,B.Tech ECE,Pune,manufacturing,21,SC
+I0087,Data Analyst Intern,excel power bi python sql,B.Com,Bangalore,data science,37,
+I0088,AI Engineer Intern,data analysis deep learning machine learning pytorch python,BCA,Bangalore,aiml,21,ST
+I0089,QA Intern,c html javascript nodejs sql,B.Sc CS,Bangalore,software,27,ST
+I0090,ML Research Intern,data analysis machine learning pytorch sql,BCA,Hyderabad,aiml,16,
+I0091,Frontend Developer Intern,nodejs react,BCA,Jaipur,software,29,EWS
+I0092,Medical Research Intern,nursing patient care,MBBS,Bangalore,healthcare,43,
+I0093,Production Intern,mechanical design production planning,B.Tech Civil,Jaipur,manufacturing,29,Rural
+I0094,EdTech Content Intern,content writing instructional design mentoring,MBA,Mumbai,education,43,
+I0095,Sales & Growth Intern,market research social media,B.Com,Delhi,marketing,46,
+I0096,Clinical Assistant Intern,clinical procedures patient care,BDS,Jaipur,healthcare,20,
+I0097,Contract Review Intern,case summaries drafting,LLB,Pune,law,18,SC
+I0098,Software Developer Intern,css html,BCA,Chennai,software,37,EWS
+I0099,EdTech Content Intern,curriculum design instructional design mentoring teaching,M.Sc Nursing,Jaipur,education,40,SC
+I0100,Clinical Assistant Intern,clinical procedures first aid nursing patient care,MBBS,Jaipur,healthcare,28,ST
+I0101,Legal Research Intern,case summaries contract review drafting legal research,LLB,Mumbai,law,18,
+I0102,Business Intelligence Intern,etl power bi sql statistics,M.Tech,Kolkata,data science,44,SC
+I0103,Legal Research Intern,case summaries contract review drafting legal research,LLB,Pune,law,31,
+I0104,Mechanical Design Intern,cad mechanical design,B.Tech ECE,Kolkata,manufacturing,36,Rural
+I0105,ETL Intern,data analysis etl statistics,B.Sc Agriculture,Pune,data science,48,
+I0106,Risk Analyst Intern,accounting budgeting excel risk analysis,M.Com,Delhi,finance,23,Rural
+I0107,Frontend Developer Intern,css nodejs react,B.Tech CSE,Chennai,software,38,
+I0108,Digital Marketing Intern,digital marketing seo sales social media,B.Des,Delhi,marketing,45,
+I0109,Mechanical Design Intern,cad mechanical design,B.Tech Civil,Hyderabad,manufacturing,50,
+I0110,SEO Intern,digital marketing social media,MBA,Bangalore,marketing,28,Rural
+I0111,Digital Marketing Intern,digital marketing market research seo sales social media,B.Des,Jaipur,marketing,25,SC
+I0112,Digital Marketing Intern,digital marketing market research social media,BBA,Pune,marketing,21,EWS
+I0113,Clinical Assistant Intern,clinical procedures medical research patient care,MBBS,Hyderabad,healthcare,6,SC
+I0114,Finance Analyst Intern,accounting budgeting excel financial analysis risk analysis,M.Com,Bangalore,finance,23,EWS
+I0115,Instructional Design Intern,curriculum design instructional design teaching,BBA,Jaipur,education,22,SC
+I0116,ETL Intern,excel statistics,B.Sc CS,Chennai,data science,7,Rural
+I0117,Graphic Design Intern,illustrator video editing,B.Des,Kolkata,design,45,ST
+I0118,Data Scientist Intern,machine learning pytorch python,MCA,Hyderabad,aiml,28,Rural
+I0119,Instructional Design Intern,curriculum design instructional design mentoring teaching,BDS,Kolkata,education,34,EWS
+I0120,Business Intelligence Intern,excel python,BCA,Chennai,data science,19,EWS
+I0121,AgriTech Intern,crop management farm analytics organic farming soil testing,B.Sc Agriculture,Bangalore,agriculture,19,ST
+I0122,Teaching Assistant Intern,content writing curriculum design instructional design teaching,BDS,Kolkata,education,45,ST
+I0123,AI Engineer Intern,machine learning pytorch python sql tensorflow,B.Tech ECE,Hyderabad,aiml,27,
+I0124,UI/UX Intern,illustrator video editing,B.Des,Hyderabad,design,9,EWS
+I0125,Finance Analyst Intern,accounting excel financial analysis,M.Com,Hyderabad,finance,27,Rural
+I0126,Data Scientist Intern,data analysis deep learning sql tensorflow,BCA,Kolkata,aiml,23,ST
+I0127,Medical Research Intern,clinical procedures first aid medical research,BDS,Delhi,healthcare,36,Rural
+I0128,Clinical Assistant Intern,clinical procedures first aid medical research nursing patient care,M.Sc Nursing,Bangalore,healthcare,38,
+I0129,Production Intern,cad electrical circuits mechanical design production planning quality control,B.Tech ECE,Kolkata,manufacturing,9,ST
+I0130,Video Editing Intern,figma illustrator photoshop video editing,B.Tech Mechanical,Bangalore,design,19,SC
+I0131,Agriculture Field Intern,crop management irrigation planning soil testing,B.Tech Civil,Jaipur,agriculture,7,Rural
+I0132,Quality Control Intern,electrical circuits mechanical design production planning quality control,B.Tech ECE,Pune,manufacturing,11,
+I0133,Clinical Assistant Intern,clinical procedures first aid medical research nursing patient care,MBBS,Chennai,healthcare,6,SC
+I0134,Clinical Assistant Intern,clinical procedures medical research nursing patient care,BDS,Bangalore,healthcare,18,Rural
+I0135,Clinical Assistant Intern,clinical procedures first aid medical research nursing patient care,M.Sc Nursing,Delhi,healthcare,38,
+I0136,Production Intern,cad electrical circuits mechanical design production planning,B.Sc Agriculture,Bangalore,manufacturing,41,ST
+I0137,Accounting Intern,accounting budgeting excel financial analysis risk analysis,B.Com,Mumbai,finance,8,Rural
+I0138,Software Developer Intern,html react,MCA,Bangalore,software,14,ST
+I0139,Finance Analyst Intern,accounting budgeting excel risk analysis,MBA,Hyderabad,finance,26,SC
+I0140,Risk Analyst Intern,excel risk analysis,B.Com,Delhi,finance,39,EWS
+I0141,Paralegal Intern,contract review drafting legal research,LLB,Mumbai,law,50,SC
+I0142,Clinical Assistant Intern,first aid patient care,M.Sc Nursing,Bangalore,healthcare,22,SC
+I0143,Frontend Developer Intern,c css git javascript,B.Sc CS,Hyderabad,software,38,SC
+I0144,EdTech Content Intern,content writing curriculum design,MBA,Kolkata,education,32,
+I0145,Paralegal Intern,case summaries contract review drafting legal research,LLB,Hyderabad,law,19,EWS
+I0146,ETL Intern,data analysis etl excel statistics,M.Tech,Bangalore,data science,34,
+I0147,AgriTech Intern,crop management farm analytics irrigation planning,B.Sc Agriculture,Mumbai,agriculture,38,SC
+I0148,Frontend Developer Intern,git spring boot,BCA,Hyderabad,software,8,SC
+I0149,EdTech Content Intern,content writing curriculum design mentoring teaching,BDS,Kolkata,education,12,Rural
+I0150,AgriTech Intern,farm analytics organic farming,B.Sc Agriculture,Bangalore,agriculture,16,
+I0151,Patient Care Intern,first aid medical research,MBBS,Hyderabad,healthcare,24,EWS
+I0152,Production Intern,cad electrical circuits mechanical design production planning quality control,B.Tech Civil,Jaipur,manufacturing,37,
+I0153,Risk Analyst Intern,accounting budgeting,M.Com,Chennai,finance,33,EWS
+I0154,Production Intern,cad electrical circuits quality control,B.Tech Mechanical,Bangalore,manufacturing,37,SC
+I0155,Finance Analyst Intern,accounting budgeting excel financial analysis risk analysis,M.Com,Jaipur,finance,35,Rural
+I0156,Video Editing Intern,figma photoshop,BCA,Mumbai,design,12,ST
+I0157,Legal Research Intern,case summaries contract review drafting legal research,LLB,Delhi,law,11,
+I0158,Mechanical Design Intern,cad electrical circuits mechanical design production planning,B.Tech ECE,Kolkata,manufacturing,12,Rural
+I0159,Instructional Design Intern,curriculum design instructional design mentoring,M.Sc Nursing,Chennai,education,21,ST
+I0160,Accounting Intern,accounting budgeting excel,M.Com,Jaipur,finance,38,
+I0161,Instructional Design Intern,mentoring teaching,MBA,Pune,education,27,SC
+I0162,Legal Research Intern,case summaries contract review drafting legal research,LLB,Chennai,law,28,SC
+I0163,Accounting Intern,budgeting financial analysis risk analysis,BBA,Jaipur,finance,35,
+I0164,AI Engineer Intern,data analysis deep learning pytorch python sql,B.Tech CSE,Chennai,aiml,48,SC
+I0165,Accounting Intern,accounting budgeting excel financial analysis risk analysis,M.Com,Jaipur,finance,16,ST
+I0166,Paralegal Intern,case summaries contract review drafting legal research,LLB,Hyderabad,law,12,SC
+I0167,Legal Research Intern,drafting legal research,LLB,Chennai,law,30,Rural
+I0168,Graphic Design Intern,figma uiux design,B.Des,Chennai,design,11,EWS
+I0169,Sales & Growth Intern,digital marketing market research,MBA,Pune,marketing,24,Rural
+I0170,Quality Control Intern,electrical circuits mechanical design quality control,B.Tech Mechanical,Hyderabad,manufacturing,19,
+I0171,Mechanical Design Intern,production planning quality control,B.Tech ECE,Chennai,manufacturing,29,EWS
+I0172,Frontend Developer Intern,react spring boot,B.Tech CSE,Mumbai,software,10,Rural
+I0173,Sales & Growth Intern,digital marketing social media,BBA,Pune,marketing,36,SC
+I0174,Mechanical Design Intern,cad electrical circuits mechanical design production planning quality control,B.Tech Civil,Kolkata,manufacturing,43,SC
+I0175,UI/UX Intern,figma illustrator photoshop uiux design video editing,B.Des,Hyderabad,design,7,SC
+I0176,Production Intern,cad electrical circuits mechanical design production planning quality control,B.Tech ECE,Hyderabad,manufacturing,8,ST
+I0177,Instructional Design Intern,content writing mentoring,M.Sc Nursing,Jaipur,education,41,SC
+I0178,AI Engineer Intern,pytorch python,B.Tech CSE,Bangalore,aiml,45,SC
+I0179,Sales & Growth Intern,digital marketing market research seo sales social media,BBA,Hyderabad,marketing,18,Rural
+I0180,Legal Research Intern,case summaries contract review drafting legal research,LLB,Mumbai,law,10,ST
+I0181,Video Editing Intern,figma photoshop uiux design video editing,B.Des,Hyderabad,design,22,Rural
+I0182,Risk Analyst Intern,excel financial analysis,B.Com,Kolkata,finance,10,Rural
+I0183,Data Scientist Intern,python tensorflow,M.Tech,Hyderabad,aiml,11,
+I0184,Frontend Developer Intern,git java,BCA,Pune,software,35,EWS
+I0185,Mechanical Design Intern,cad mechanical design production planning quality control,B.Tech Civil,Hyderabad,manufacturing,10,EWS
+I0186,UI/UX Intern,illustrator video editing,B.Des,Delhi,design,29,
+I0187,AI Engineer Intern,machine learning pytorch python tensorflow,BCA,Mumbai,aiml,21,SC
+I0188,ML Research Intern,deep learning machine learning pytorch tensorflow,B.Tech CSE,Chennai,aiml,42,
+I0189,Sales & Growth Intern,digital marketing market research seo sales social media,M.Com,Delhi,marketing,11,SC
+I0190,Software Developer Intern,javascript react,BCA,Jaipur,software,26,SC
+I0191,Agriculture Field Intern,crop management farm analytics irrigation planning organic farming,B.Tech Civil,Kolkata,agriculture,47,SC
+I0192,AgriTech Intern,crop management organic farming,B.Sc Agriculture,Chennai,agriculture,36,EWS
+I0193,EdTech Content Intern,content writing curriculum design instructional design mentoring teaching,BDS,Bangalore,education,13,ST
+I0194,EdTech Content Intern,instructional design mentoring,BDS,Delhi,education,23,EWS
+I0195,Clinical Assistant Intern,clinical procedures first aid nursing patient care,MBBS,Hyderabad,healthcare,20,
+I0196,Video Editing Intern,figma illustrator video editing,B.Des,Bangalore,design,45,EWS
+I0197,Soil Testing Intern,organic farming soil testing,B.Sc Agriculture,Delhi,agriculture,32,Rural
+I0198,Medical Research Intern,clinical procedures first aid medical research nursing patient care,M.Sc Nursing,Bangalore,healthcare,39,
+I0199,Finance Analyst Intern,accounting budgeting excel financial analysis,M.Com,Pune,finance,24,Rural
+I0200,AgriTech Intern,crop management irrigation planning,B.Sc Agriculture,Delhi,agriculture,38,ST
+I0201,Soil Testing Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Delhi,agriculture,29,
+I0202,Risk Analyst Intern,budgeting financial analysis,M.Com,Kolkata,finance,39,SC
+I0203,Software Developer Intern,html react,BCA,Bangalore,software,35,ST
+I0204,Risk Analyst Intern,accounting excel,MBA,Jaipur,finance,38,EWS
+I0205,Software Developer Intern,css javascript sql spring boot,B.Tech CSE,Mumbai,software,16,ST
+I0206,UI/UX Intern,figma illustrator photoshop,B.Des,Bangalore,design,8,
+I0207,Mechanical Design Intern,electrical circuits quality control,B.Tech Civil,Delhi,manufacturing,36,EWS
+I0208,Video Editing Intern,figma illustrator photoshop uiux design,B.Des,Pune,design,10,
+I0209,Paralegal Intern,case summaries contract review drafting legal research,LLB,Jaipur,law,16,SC
+I0210,Accounting Intern,accounting budgeting excel financial analysis risk analysis,B.Com,Jaipur,finance,25,ST
+I0211,Medical Research Intern,clinical procedures first aid nursing patient care,MBBS,Kolkata,healthcare,39,Rural
+I0212,Finance Analyst Intern,accounting excel,MBA,Mumbai,finance,47,EWS
+I0213,Patient Care Intern,medical research nursing,BDS,Bangalore,healthcare,48,ST
+I0214,Data Scientist Intern,deep learning tensorflow,M.Tech,Hyderabad,aiml,23,SC
+I0215,ETL Intern,etl power bi sql,B.Tech Civil,Chennai,data science,15,Rural
+I0216,Data Analyst Intern,excel power bi python sql statistics,BCA,Mumbai,data science,42,SC
+I0217,EdTech Content Intern,content writing curriculum design instructional design mentoring teaching,MBBS,Jaipur,education,28,Rural
+I0218,Data Analyst Intern,data analysis excel power bi python,BCA,Pune,data science,26,ST
+I0219,Graphic Design Intern,figma illustrator video editing,B.Des,Mumbai,design,21,EWS
+I0220,Quality Control Intern,cad mechanical design,B.Tech Civil,Delhi,manufacturing,48,EWS
+I0221,Digital Marketing Intern,market research sales,MBA,Pune,marketing,33,Rural
+I0222,Graphic Design Intern,figma illustrator photoshop uiux design video editing,B.Tech Civil,Mumbai,design,7,Rural
+I0223,Software Developer Intern,git java nodejs react,MCA,Chennai,software,43,EWS
+I0224,Data Analyst Intern,etl python statistics,B.Sc CS,Chennai,data science,47,
+I0225,Agriculture Field Intern,irrigation planning organic farming,B.Sc Agriculture,Delhi,agriculture,47,SC
+I0226,Quality Control Intern,electrical circuits quality control,B.Tech ECE,Chennai,manufacturing,9,ST
+I0227,Agriculture Field Intern,farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Mumbai,agriculture,24,Rural
+I0228,Data Analyst Intern,data analysis excel python,M.Tech,Delhi,data science,35,SC
+I0229,Legal Research Intern,case summaries contract review drafting legal research,LLB,Bangalore,law,15,EWS
+I0230,QA Intern,java javascript,M.Tech,Kolkata,software,26,EWS
+I0231,Data Analyst Intern,data analysis excel statistics,B.Sc Agriculture,Pune,data science,8,
+I0232,Mechanical Design Intern,cad electrical circuits quality control,B.Tech Civil,Jaipur,manufacturing,29,ST
+I0233,Contract Review Intern,case summaries legal research,LLB,Hyderabad,law,7,EWS
+I0234,Video Editing Intern,photoshop uiux design,B.Tech Civil,Chennai,design,37,EWS
+I0235,QA Intern,c javascript sql,B.Tech ECE,Pune,software,11,Rural
+I0236,Legal Research Intern,case summaries drafting legal research,LLB,Hyderabad,law,29,ST
+I0237,UI/UX Intern,figma illustrator photoshop uiux design video editing,B.Tech Mechanical,Delhi,design,28,ST
+I0238,AI Engineer Intern,pytorch sql,B.Tech CSE,Chennai,aiml,9,
+I0239,Data Scientist Intern,data analysis deep learning machine learning pytorch sql,M.Tech,Chennai,aiml,14,SC
+I0240,QA Intern,c css html react spring boot,B.Tech ECE,Mumbai,software,7,Rural
+I0241,Medical Research Intern,clinical procedures first aid patient care,BDS,Chennai,healthcare,12,EWS
+I0242,Graphic Design Intern,illustrator uiux design,B.Des,Kolkata,design,9,EWS
+I0243,Mechanical Design Intern,cad electrical circuits mechanical design production planning quality control,B.Tech ECE,Chennai,manufacturing,47,ST
+I0244,Business Intelligence Intern,excel power bi python sql statistics,B.Tech Mechanical,Mumbai,data science,50,EWS
+I0245,Business Intelligence Intern,etl sql,MCA,Kolkata,data science,18,Rural
+I0246,Legal Research Intern,case summaries drafting legal research,LLB,Bangalore,law,24,ST
+I0247,UI/UX Intern,figma illustrator photoshop uiux design video editing,B.Tech Mechanical,Pune,design,9,SC
+I0248,Digital Marketing Intern,digital marketing seo sales social media,BBA,Kolkata,marketing,46,
+I0249,UI/UX Intern,figma uiux design,B.Tech Mechanical,Mumbai,design,26,
+I0250,AgriTech Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Pune,agriculture,11,EWS
+I0251,Data Scientist Intern,data analysis sql,B.Tech ECE,Kolkata,aiml,22,
+I0252,Soil Testing Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Delhi,agriculture,12,SC
+I0253,AgriTech Intern,crop management irrigation planning soil testing,B.Sc Agriculture,Jaipur,agriculture,21,Rural
+I0254,Clinical Assistant Intern,clinical procedures medical research nursing patient care,BDS,Chennai,healthcare,36,SC
+I0255,Soil Testing Intern,crop management farm analytics organic farming soil testing,B.Sc Agriculture,Delhi,agriculture,23,EWS
+I0256,Teaching Assistant Intern,content writing curriculum design mentoring teaching,M.Sc Nursing,Pune,education,9,
+I0257,Agriculture Field Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Bangalore,agriculture,50,ST
+I0258,Teaching Assistant Intern,content writing curriculum design instructional design mentoring teaching,BDS,Kolkata,education,49,EWS
+I0259,Graphic Design Intern,figma photoshop,BCA,Bangalore,design,18,SC
+I0260,AI Engineer Intern,deep learning machine learning sql,B.Tech CSE,Kolkata,aiml,27,ST
+I0261,Soil Testing Intern,organic farming soil testing,B.Sc Agriculture,Hyderabad,agriculture,20,EWS
+I0262,Clinical Assistant Intern,clinical procedures first aid medical research nursing patient care,MBBS,Hyderabad,healthcare,31,ST
+I0263,AgriTech Intern,farm analytics irrigation planning organic farming soil testing,B.Tech Civil,Kolkata,agriculture,40,ST
+I0264,Video Editing Intern,figma illustrator photoshop uiux design video editing,B.Sc CS,Mumbai,design,16,EWS
+I0265,SEO Intern,sales social media,BBA,Kolkata,marketing,28,SC
+I0266,Digital Marketing Intern,digital marketing market research social media,LLB,Bangalore,marketing,50,
+I0267,Risk Analyst Intern,accounting budgeting excel financial analysis risk analysis,MBA,Hyderabad,finance,23,ST
+I0268,Data Analyst Intern,etl excel python statistics,B.Tech CSE,Chennai,data science,27,
+I0269,Software Developer Intern,html java javascript react sql,BCA,Hyderabad,software,17,Rural
+I0270,Sales & Growth Intern,digital marketing market research seo sales social media,B.Des,Hyderabad,marketing,12,EWS
+I0271,SEO Intern,market research social media,LLB,Delhi,marketing,27,ST
+I0272,Data Scientist Intern,data analysis deep learning pytorch python sql,B.Sc CS,Mumbai,aiml,44,SC
+I0273,EdTech Content Intern,content writing curriculum design instructional design teaching,BBA,Hyderabad,education,36,SC
+I0274,QA Intern,css java,BCA,Hyderabad,software,13,Rural
+I0275,ETL Intern,etl excel power bi sql statistics,B.Tech CSE,Hyderabad,data science,19,SC
+I0276,Sales & Growth Intern,digital marketing market research sales,MBA,Bangalore,marketing,36,ST
+I0277,Production Intern,cad electrical circuits production planning,B.Tech Civil,Delhi,manufacturing,12,EWS
+I0278,Clinical Assistant Intern,clinical procedures first aid medical research nursing,BDS,Kolkata,healthcare,13,Rural
+I0279,Agriculture Field Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Hyderabad,agriculture,39,EWS
+I0280,Digital Marketing Intern,digital marketing social media,BBA,Hyderabad,marketing,23,ST
+I0281,Backend Developer Intern,css git html,B.Tech CSE,Bangalore,software,49,EWS
+I0282,Business Intelligence Intern,data analysis etl power bi python sql,B.Tech Civil,Kolkata,data science,9,Rural
+I0283,Finance Analyst Intern,budgeting excel risk analysis,M.Com,Hyderabad,finance,48,ST
+I0284,Sales & Growth Intern,market research seo sales social media,MBA,Hyderabad,marketing,23,SC
+I0285,Digital Marketing Intern,digital marketing seo sales social media,MBA,Delhi,marketing,20,EWS
+I0286,Video Editing Intern,figma photoshop video editing,B.Sc CS,Bangalore,design,32,EWS
+I0287,Sales & Growth Intern,digital marketing market research seo social media,BBA,Kolkata,marketing,49,
+I0288,Soil Testing Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Chennai,agriculture,29,ST
+I0289,Instructional Design Intern,curriculum design mentoring,MBBS,Pune,education,46,Rural
+I0290,Soil Testing Intern,irrigation planning organic farming,B.Sc Agriculture,Pune,agriculture,47,Rural
+I0291,Instructional Design Intern,curriculum design instructional design mentoring,BDS,Hyderabad,education,41,Rural
+I0292,Software Developer Intern,css git sql,B.Tech CSE,Mumbai,software,45,
+I0293,Accounting Intern,accounting excel risk analysis,B.Com,Chennai,finance,7,
+I0294,Backend Developer Intern,c css git javascript sql,B.Tech CSE,Jaipur,software,5,ST
+I0295,Finance Analyst Intern,accounting budgeting excel financial analysis risk analysis,BBA,Bangalore,finance,44,ST
+I0296,Finance Analyst Intern,accounting budgeting financial analysis,MBA,Delhi,finance,21,ST
+I0297,Data Analyst Intern,power bi python sql statistics,B.Tech ECE,Chennai,data science,20,
+I0298,QA Intern,css nodejs,B.Tech CSE,Hyderabad,software,27,ST
+I0299,Data Analyst Intern,etl excel sql statistics,B.Tech ECE,Delhi,data science,5,EWS
+I0300,EdTech Content Intern,content writing instructional design mentoring teaching,MBA,Pune,education,30,Rural
+I0301,Paralegal Intern,contract review drafting,LLB,Mumbai,law,33,Rural
+I0302,Legal Research Intern,case summaries contract review drafting,LLB,Chennai,law,31,
+I0303,Risk Analyst Intern,accounting budgeting excel financial analysis risk analysis,MBA,Chennai,finance,16,Rural
+I0304,Sales & Growth Intern,market research seo sales,BBA,Kolkata,marketing,23,Rural
+I0305,Software Developer Intern,html nodejs react sql,MCA,Kolkata,software,11,Rural
+I0306,Risk Analyst Intern,accounting budgeting excel financial analysis risk analysis,B.Com,Jaipur,finance,26,EWS
+I0307,UI/UX Intern,illustrator photoshop uiux design video editing,B.Sc CS,Bangalore,design,50,EWS
+I0308,AI Engineer Intern,machine learning tensorflow,B.Tech CSE,Mumbai,aiml,49,SC
+I0309,Contract Review Intern,contract review drafting,LLB,Pune,law,27,Rural
+I0310,EdTech Content Intern,content writing curriculum design mentoring,MBBS,Pune,education,37,Rural
+I0311,Medical Research Intern,clinical procedures first aid medical research nursing patient care,BDS,Kolkata,healthcare,23,
+I0312,AI Engineer Intern,machine learning sql tensorflow,BCA,Bangalore,aiml,34,Rural
+I0313,Data Scientist Intern,machine learning tensorflow,B.Sc CS,Kolkata,aiml,44,ST
+I0314,Paralegal Intern,case summaries contract review legal research,LLB,Chennai,law,24,EWS
+I0315,Production Intern,cad electrical circuits mechanical design production planning quality control,B.Tech Civil,Pune,manufacturing,10,SC
+I0316,Frontend Developer Intern,javascript react,MCA,Jaipur,software,14,SC
+I0317,Soil Testing Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Tech Civil,Bangalore,agriculture,50,
+I0318,Video Editing Intern,photoshop video editing,B.Des,Mumbai,design,29,
+I0319,Instructional Design Intern,content writing curriculum design instructional design mentoring,MBBS,Delhi,education,40,Rural
+I0320,Sales & Growth Intern,digital marketing market research,B.Sc Agriculture,Pune,marketing,43,Rural
+I0321,Accounting Intern,accounting budgeting excel financial analysis risk analysis,M.Com,Hyderabad,finance,41,EWS
+I0322,Data Analyst Intern,data analysis excel,B.Sc CS,Hyderabad,data science,9,Rural
+I0323,Data Analyst Intern,data analysis power bi python sql,B.Tech Mechanical,Bangalore,data science,22,Rural
+I0324,Mechanical Design Intern,cad electrical circuits mechanical design production planning quality control,B.Tech ECE,Bangalore,manufacturing,33,
+I0325,Legal Research Intern,case summaries contract review drafting legal research,LLB,Bangalore,law,6,SC
+I0326,Graphic Design Intern,figma illustrator photoshop uiux design video editing,B.Des,Chennai,design,21,SC
+I0327,Teaching Assistant Intern,curriculum design instructional design teaching,BBA,Jaipur,education,14,EWS
+I0328,Data Analyst Intern,excel python,B.Sc Agriculture,Bangalore,data science,40,EWS
+I0329,Video Editing Intern,illustrator uiux design video editing,B.Sc CS,Kolkata,design,14,Rural
+I0330,Sales & Growth Intern,digital marketing sales social media,MBA,Jaipur,marketing,30,Rural
+I0331,Digital Marketing Intern,seo sales,MBA,Chennai,marketing,31,SC
+I0332,Risk Analyst Intern,budgeting excel financial analysis risk analysis,M.Com,Jaipur,finance,29,SC
+I0333,Data Scientist Intern,pytorch python,B.Tech Mechanical,Delhi,aiml,39,ST
+I0334,Digital Marketing Intern,digital marketing seo sales,BCA,Jaipur,marketing,19,
+I0335,Agriculture Field Intern,irrigation planning organic farming,B.Sc Agriculture,Jaipur,agriculture,37,Rural
+I0336,Paralegal Intern,case summaries contract review,LLB,Jaipur,law,50,EWS
+I0337,Data Analyst Intern,data analysis etl python sql,B.Sc CS,Bangalore,data science,27,ST
+I0338,AI Engineer Intern,deep learning python sql,B.Tech Mechanical,Chennai,aiml,22,SC
+I0339,Contract Review Intern,case summaries contract review drafting legal research,LLB,Jaipur,law,36,
+I0340,Clinical Assistant Intern,clinical procedures nursing patient care,MBBS,Pune,healthcare,36,EWS
+I0341,Agriculture Field Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Delhi,agriculture,10,
+I0342,QA Intern,css react,B.Tech CSE,Jaipur,software,29,EWS
+I0343,EdTech Content Intern,instructional design mentoring teaching,BDS,Kolkata,education,48,ST
+I0344,Contract Review Intern,case summaries contract review legal research,LLB,Pune,law,14,
+I0345,Accounting Intern,accounting budgeting financial analysis risk analysis,M.Com,Chennai,finance,44,ST
+I0346,Teaching Assistant Intern,content writing curriculum design instructional design teaching,BBA,Pune,education,37,EWS
+I0347,Instructional Design Intern,content writing curriculum design instructional design mentoring teaching,MBBS,Pune,education,20,
+I0348,Legal Research Intern,case summaries contract review drafting legal research,LLB,Bangalore,law,14,
+I0349,Data Scientist Intern,data analysis deep learning machine learning tensorflow,B.Tech Mechanical,Kolkata,aiml,46,
+I0350,ETL Intern,data analysis etl sql statistics,B.Com,Chennai,data science,46,SC
+I0351,Sales & Growth Intern,seo social media,BBA,Kolkata,marketing,20,
+I0352,Data Analyst Intern,power bi sql statistics,M.Tech,Pune,data science,5,
+I0353,ML Research Intern,data analysis deep learning sql tensorflow,M.Tech,Delhi,aiml,15,
+I0354,Video Editing Intern,figma illustrator photoshop uiux design,B.Tech Mechanical,Bangalore,design,43,
+I0355,Contract Review Intern,case summaries contract review legal research,LLB,Delhi,law,34,ST
+I0356,Contract Review Intern,contract review legal research,LLB,Jaipur,law,8,SC
+I0357,Paralegal Intern,case summaries drafting,LLB,Delhi,law,7,Rural
+I0358,Finance Analyst Intern,accounting budgeting excel financial analysis risk analysis,M.Com,Kolkata,finance,29,Rural
+I0359,Soil Testing Intern,farm analytics irrigation planning soil testing,B.Sc Agriculture,Delhi,agriculture,31,Rural
+I0360,Backend Developer Intern,c react sql spring boot,BCA,Chennai,software,42,SC
+I0361,Agriculture Field Intern,crop management farm analytics organic farming soil testing,B.Tech Civil,Hyderabad,agriculture,29,EWS
+I0362,Data Scientist Intern,data analysis machine learning pytorch sql tensorflow,BCA,Pune,aiml,27,
+I0363,Legal Research Intern,case summaries contract review drafting legal research,LLB,Delhi,law,13,EWS
+I0364,Finance Analyst Intern,budgeting risk analysis,B.Com,Pune,finance,23,EWS
+I0365,Contract Review Intern,case summaries contract review drafting legal research,LLB,Hyderabad,law,14,SC
+I0366,Frontend Developer Intern,c nodejs,BCA,Kolkata,software,10,SC
+I0367,Data Scientist Intern,deep learning machine learning python tensorflow,BCA,Delhi,aiml,31,Rural
+I0368,Mechanical Design Intern,mechanical design production planning quality control,B.Tech ECE,Jaipur,manufacturing,35,ST
+I0369,Frontend Developer Intern,c css html,B.Tech CSE,Kolkata,software,44,SC
+I0370,AgriTech Intern,crop management soil testing,B.Sc Agriculture,Hyderabad,agriculture,29,
+I0371,Legal Research Intern,case summaries contract review drafting legal research,LLB,Mumbai,law,21,Rural
+I0372,UI/UX Intern,figma illustrator uiux design,B.Des,Hyderabad,design,33,Rural
+I0373,Risk Analyst Intern,accounting budgeting excel risk analysis,B.Com,Kolkata,finance,5,Rural
+I0374,AI Engineer Intern,machine learning python,BCA,Delhi,aiml,36,ST
+I0375,Graphic Design Intern,figma photoshop,B.Des,Hyderabad,design,14,ST
+I0376,Data Analyst Intern,data analysis etl power bi python,BCA,Kolkata,data science,45,
+I0377,Business Intelligence Intern,data analysis etl python sql statistics,B.Sc CS,Chennai,data science,20,ST
+I0378,AgriTech Intern,farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Hyderabad,agriculture,34,Rural
+I0379,Risk Analyst Intern,accounting budgeting excel financial analysis risk analysis,B.Com,Chennai,finance,7,
+I0380,Software Developer Intern,c git java javascript,BCA,Kolkata,software,20,ST
+I0381,Soil Testing Intern,crop management irrigation planning organic farming soil testing,B.Sc Agriculture,Pune,agriculture,27,Rural
+I0382,Production Intern,cad electrical circuits mechanical design production planning quality control,B.Tech Mechanical,Jaipur,manufacturing,21,Rural
+I0383,Production Intern,mechanical design production planning,B.Tech Civil,Mumbai,manufacturing,24,Rural
+I0384,Medical Research Intern,first aid medical research nursing,M.Sc Nursing,Chennai,healthcare,18,EWS
+I0385,Risk Analyst Intern,accounting budgeting financial analysis,M.Com,Bangalore,finance,31,Rural
+I0386,Software Developer Intern,css git java spring boot,B.Tech ECE,Delhi,software,25,EWS
+I0387,Paralegal Intern,contract review drafting,LLB,Hyderabad,law,42,
+I0388,UI/UX Intern,figma photoshop uiux design,B.Tech Mechanical,Hyderabad,design,30,
+I0389,Finance Analyst Intern,excel risk analysis,MBA,Jaipur,finance,41,Rural
+I0390,Digital Marketing Intern,digital marketing market research seo sales social media,MBA,Kolkata,marketing,31,SC
+I0391,Quality Control Intern,cad electrical circuits mechanical design production planning quality control,B.Tech Mechanical,Mumbai,manufacturing,17,
+I0392,Graphic Design Intern,figma illustrator photoshop uiux design,B.Des,Chennai,design,27,ST
+I0393,UI/UX Intern,figma illustrator photoshop,B.Des,Hyderabad,design,8,SC
+I0394,ML Research Intern,data analysis python,BCA,Bangalore,aiml,25,Rural
+I0395,Business Intelligence Intern,data analysis excel,MCA,Hyderabad,data science,48,Rural
+I0396,AI Engineer Intern,machine learning pytorch python sql tensorflow,BCA,Jaipur,aiml,12,SC
+I0397,Paralegal Intern,case summaries contract review legal research,LLB,Kolkata,law,23,SC
+I0398,Digital Marketing Intern,seo sales,MBA,Mumbai,marketing,34,Rural
+I0399,Risk Analyst Intern,budgeting excel financial analysis,B.Com,Kolkata,finance,9,ST
+I0400,Video Editing Intern,photoshop uiux design video editing,B.Des,Hyderabad,design,38,SC
+I0401,SEO Intern,sales social media,M.Com,Jaipur,marketing,41,
+I0402,EdTech Content Intern,content writing curriculum design teaching,M.Sc Nursing,Mumbai,education,41,Rural
+I0403,Accounting Intern,accounting excel,M.Com,Mumbai,finance,39,EWS
+I0404,Risk Analyst Intern,financial analysis risk analysis,B.Com,Jaipur,finance,12,ST
+I0405,Quality Control Intern,cad electrical circuits mechanical design production planning,B.Tech Mechanical,Jaipur,manufacturing,18,SC
+I0406,Accounting Intern,accounting budgeting excel financial analysis,B.Com,Jaipur,finance,24,Rural
+I0407,Agriculture Field Intern,farm analytics organic farming soil testing,B.Sc Agriculture,Hyderabad,agriculture,13,
+I0408,Paralegal Intern,case summaries contract review,LLB,Delhi,law,8,EWS
+I0409,Agriculture Field Intern,crop management soil testing,B.Tech Civil,Pune,agriculture,46,Rural
+I0410,Frontend Developer Intern,c nodejs react sql,B.Tech CSE,Mumbai,software,10,EWS
+I0411,SEO Intern,market research seo sales,BBA,Jaipur,marketing,15,ST
+I0412,Instructional Design Intern,content writing curriculum design instructional design teaching,BDS,Hyderabad,education,35,
+I0413,EdTech Content Intern,content writing teaching,BDS,Hyderabad,education,6,
+I0414,Agriculture Field Intern,irrigation planning organic farming soil testing,B.Sc Agriculture,Pune,agriculture,19,Rural
+I0415,Instructional Design Intern,content writing teaching,MBA,Jaipur,education,32,SC
+I0416,Agriculture Field Intern,crop management farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Jaipur,agriculture,34,SC
+I0417,Graphic Design Intern,figma illustrator photoshop video editing,B.Tech Civil,Mumbai,design,10,EWS
+I0418,Digital Marketing Intern,digital marketing market research seo sales social media,BBA,Kolkata,marketing,44,SC
+I0419,Paralegal Intern,case summaries contract review drafting legal research,LLB,Chennai,law,8,EWS
+I0420,Finance Analyst Intern,accounting budgeting excel financial analysis risk analysis,M.Com,Mumbai,finance,32,
+I0421,Clinical Assistant Intern,clinical procedures first aid nursing patient care,BDS,Delhi,healthcare,45,
+I0422,Business Intelligence Intern,etl power bi statistics,M.Tech,Chennai,data science,33,EWS
+I0423,Accounting Intern,excel risk analysis,BBA,Kolkata,finance,40,ST
+I0424,ETL Intern,data analysis etl excel power bi,B.Tech CSE,Mumbai,data science,42,
+I0425,Contract Review Intern,case summaries contract review drafting legal research,LLB,Bangalore,law,43,Rural
+I0426,Teaching Assistant Intern,content writing curriculum design instructional design mentoring teaching,MBA,Bangalore,education,38,SC
+I0427,Clinical Assistant Intern,clinical procedures first aid nursing,M.Sc Nursing,Bangalore,healthcare,21,SC
+I0428,Business Intelligence Intern,etl excel power bi sql,B.Tech CSE,Jaipur,data science,38,EWS
+I0429,Clinical Assistant Intern,clinical procedures first aid medical research nursing patient care,BDS,Pune,healthcare,49,
+I0430,Instructional Design Intern,content writing curriculum design instructional design mentoring,MBA,Chennai,education,19,SC
+I0431,ML Research Intern,data analysis pytorch,M.Tech,Bangalore,aiml,42,SC
+I0432,Quality Control Intern,electrical circuits mechanical design production planning quality control,B.Tech Mechanical,Jaipur,manufacturing,49,
+I0433,Quality Control Intern,production planning quality control,B.Tech ECE,Delhi,manufacturing,8,SC
+I0434,Teaching Assistant Intern,content writing curriculum design instructional design mentoring teaching,MBA,Pune,education,46,
+I0435,ML Research Intern,data analysis machine learning pytorch python sql,BCA,Chennai,aiml,14,EWS
+I0436,Business Intelligence Intern,data analysis excel power bi sql statistics,M.Tech,Jaipur,data science,31,ST
+I0437,Graphic Design Intern,figma illustrator photoshop uiux design video editing,B.Tech Mechanical,Pune,design,19,EWS
+I0438,AgriTech Intern,crop management farm analytics organic farming soil testing,B.Sc Agriculture,Mumbai,agriculture,22,
+I0439,Finance Analyst Intern,accounting budgeting excel financial analysis risk analysis,M.Com,Pune,finance,12,EWS
+I0440,Soil Testing Intern,crop management farm analytics organic farming,B.Sc Agriculture,Mumbai,agriculture,24,SC
+I0441,Data Scientist Intern,data analysis deep learning machine learning sql tensorflow,BCA,Kolkata,aiml,44,ST
+I0442,AI Engineer Intern,deep learning machine learning python,B.Tech ECE,Bangalore,aiml,18,
+I0443,Teaching Assistant Intern,content writing curriculum design mentoring,M.Sc Nursing,Mumbai,education,22,EWS
+I0444,Legal Research Intern,contract review drafting,LLB,Kolkata,law,18,EWS
+I0445,Backend Developer Intern,c css git java react,MCA,Hyderabad,software,19,Rural
+I0446,Digital Marketing Intern,digital marketing market research sales social media,B.Com,Hyderabad,marketing,32,
+I0447,SEO Intern,digital marketing market research social media,MBA,Kolkata,marketing,31,SC
+I0448,EdTech Content Intern,content writing curriculum design instructional design,MBBS,Kolkata,education,36,
+I0449,Medical Research Intern,first aid medical research nursing patient care,M.Sc Nursing,Chennai,healthcare,29,ST
+I0450,Digital Marketing Intern,digital marketing seo,MBA,Hyderabad,marketing,30,EWS
+I0451,Clinical Assistant Intern,clinical procedures first aid nursing patient care,M.Sc Nursing,Mumbai,healthcare,5,SC
+I0452,Patient Care Intern,clinical procedures first aid patient care,M.Sc Nursing,Jaipur,healthcare,13,ST
+I0453,Accounting Intern,accounting budgeting risk analysis,BBA,Kolkata,finance,44,Rural
+I0454,ML Research Intern,machine learning sql,M.Tech,Hyderabad,aiml,48,EWS
+I0455,Legal Research Intern,case summaries contract review drafting legal research,LLB,Bangalore,law,16,SC
+I0456,Instructional Design Intern,content writing instructional design mentoring,MBA,Chennai,education,45,EWS
+I0457,Data Scientist Intern,data analysis machine learning sql tensorflow,MCA,Kolkata,aiml,31,Rural
+I0458,Paralegal Intern,drafting legal research,LLB,Hyderabad,law,31,Rural
+I0459,Finance Analyst Intern,budgeting risk analysis,B.Com,Hyderabad,finance,24,SC
+I0460,Video Editing Intern,figma illustrator photoshop uiux design video editing,B.Des,Bangalore,design,40,ST
+I0461,Patient Care Intern,medical research nursing patient care,MBBS,Delhi,healthcare,12,Rural
+I0462,UI/UX Intern,figma illustrator photoshop uiux design,B.Tech Civil,Chennai,design,14,Rural
+I0463,Contract Review Intern,case summaries contract review drafting legal research,LLB,Bangalore,law,20,SC
+I0464,Frontend Developer Intern,html react,BCA,Chennai,software,38,SC
+I0465,Quality Control Intern,cad production planning,B.Tech ECE,Hyderabad,manufacturing,47,ST
+I0466,UI/UX Intern,figma illustrator photoshop uiux design video editing,BCA,Delhi,design,13,EWS
+I0467,ETL Intern,data analysis etl power bi python statistics,B.Tech CSE,Mumbai,data science,29,SC
+I0468,Medical Research Intern,first aid nursing patient care,MBBS,Mumbai,healthcare,18,EWS
+I0469,Sales & Growth Intern,digital marketing market research seo sales,M.Com,Jaipur,marketing,44,SC
+I0470,Graphic Design Intern,figma illustrator photoshop uiux design video editing,B.Tech Civil,Pune,design,49,Rural
+I0471,Graphic Design Intern,figma illustrator photoshop uiux design video editing,B.Des,Mumbai,design,20,ST
+I0472,Video Editing Intern,figma illustrator photoshop uiux design video editing,B.Sc CS,Chennai,design,7,EWS
+I0473,Contract Review Intern,case summaries contract review drafting legal research,LLB,Bangalore,law,22,Rural
+I0474,Teaching Assistant Intern,mentoring teaching,BDS,Hyderabad,education,6,EWS
+I0475,Business Intelligence Intern,data analysis etl power bi python sql,MCA,Chennai,data science,21,Rural
+I0476,Sales & Growth Intern,digital marketing market research seo sales social media,B.Des,Pune,marketing,19,EWS
+I0477,AgriTech Intern,crop management irrigation planning,B.Tech Civil,Chennai,agriculture,39,Rural
+I0478,Clinical Assistant Intern,clinical procedures first aid medical research nursing patient care,MBBS,Pune,healthcare,30,SC
+I0479,Clinical Assistant Intern,clinical procedures first aid medical research nursing,MBBS,Hyderabad,healthcare,44,EWS
+I0480,Sales & Growth Intern,digital marketing market research social media,B.Des,Mumbai,marketing,30,
+I0481,Mechanical Design Intern,cad electrical circuits mechanical design production planning,B.Tech Mechanical,Hyderabad,manufacturing,11,ST
+I0482,Agriculture Field Intern,irrigation planning organic farming,B.Sc Agriculture,Kolkata,agriculture,7,
+I0483,QA Intern,java nodejs react,B.Sc CS,Delhi,software,12,Rural
+I0484,Patient Care Intern,clinical procedures first aid medical research nursing patient care,BDS,Bangalore,healthcare,7,ST
+I0485,Patient Care Intern,clinical procedures first aid medical research nursing patient care,BDS,Bangalore,healthcare,41,EWS
+I0486,Backend Developer Intern,javascript sql spring boot,BCA,Mumbai,software,33,SC
+I0487,Paralegal Intern,case summaries contract review drafting legal research,LLB,Delhi,law,34,Rural
+I0488,Teaching Assistant Intern,content writing curriculum design instructional design,BDS,Kolkata,education,17,ST
+I0489,Legal Research Intern,case summaries contract review drafting legal research,LLB,Bangalore,law,44,Rural
+I0490,Patient Care Intern,clinical procedures medical research nursing patient care,M.Sc Nursing,Kolkata,healthcare,38,EWS
+I0491,Graphic Design Intern,figma illustrator photoshop uiux design video editing,B.Tech Mechanical,Bangalore,design,19,ST
+I0492,AgriTech Intern,farm analytics irrigation planning organic farming soil testing,B.Sc Agriculture,Mumbai,agriculture,33,Rural
+I0493,Risk Analyst Intern,budgeting excel,BBA,Hyderabad,finance,44,ST
+I0494,Data Analyst Intern,etl excel power bi sql statistics,M.Tech,Hyderabad,data science,48,Rural
+I0495,UI/UX Intern,figma illustrator photoshop uiux design video editing,B.Des,Delhi,design,47,SC
+I0496,Production Intern,cad electrical circuits,B.Tech ECE,Bangalore,manufacturing,28,SC
+I0497,Patient Care Intern,clinical procedures first aid medical research nursing patient care,MBBS,Chennai,healthcare,5,Rural
+I0498,Agriculture Field Intern,farm analytics organic farming,B.Sc Agriculture,Chennai,agriculture,34,SC
+I0499,Risk Analyst Intern,excel risk analysis,B.Com,Jaipur,finance,14,EWS
+I0500,Contract Review Intern,case summaries contract review,LLB,Kolkata,law,45,SC
