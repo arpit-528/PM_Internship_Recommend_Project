@@ -93,7 +93,7 @@ def recommend():
 
 # Run Flask app
 # --- FIX 3: Corrected dunder name for running the script ---
-if _name_ == "_main_":
+if __name__ == "__main__":
     # For production on Render, you might use a production-ready server like Gunicorn
     # For local testing, app.run() is fine.
     app.run(debug=True, host='0.0.0.0')
