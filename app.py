@@ -28,7 +28,7 @@ except FileNotFoundError as e:
 
 
 # Initialize Flask app
-app = Flask(_name_)
+app = Flask(__name__)
 
 # --- FIX 1: Enable CORS ---
 # This is the crucial step that allows your React frontend to communicate with this API.
